@@ -10,7 +10,7 @@ The assignment was to create a full stack website comprised of a backend that us
 We chose to create "Plantpedia" because we all like plants and because it would allow us not only to use all the skills we have learned but to also grow on this skill base.  
 
 
-Are you curious to see the end result? [Check out the site.](https://a-day-at-the-zoo.netlify.app/) 
+Are you curious to see the end result? [Check out the site.](https://plant-pedia.herokuapp.com/) 
 
 ---
 ### Brief
